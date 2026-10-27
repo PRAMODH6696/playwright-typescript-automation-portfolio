@@ -1,13 +1,15 @@
 {
   "validName": {
-    "testCaseId": "FORM-001",
     "name": "Pramodh Tester",
     "expectedName": "Pramodh Tester"
   },
   "validEmail": {
-    "testCaseId": "FORM-002",
     "email": "Pramodh.maddy96@gmail.com",
     "expectedEmail": "Pramodh.maddy96@gmail.com"
-}
+  },
+  "validAddress": {
+    "address": "123 Main St, Anytown, USA",
+    "expectedAddress": "123 Main St, Anytown, USA"
+  }
 
 }
